@@ -1,7 +1,7 @@
 # Duo
 Projeto criado com o objetivo de unir jogadores de forma fácil e rápida.
 
-<img align="center" alt="HTML5" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/html5-original-wordmark.svg" />
+<img align="center" alt="HTML5" height="400" width="700" src="https://github.com/miqueiassggarcia/Frontend-Duo/blob/main/Images/Initial%20screen%20duo.jpeg" />
 
 ## ⚡ Tecnologias utilizadas
 <div>
@@ -11,7 +11,6 @@ Projeto criado com o objetivo de unir jogadores de forma fácil e rápida.
   <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/javascript-plain.svg" />
   <img align="center" alt="NODEJS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/nodejs-original-wordmark.svg" />
   <img align="center" alt="EXPRESS" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/express-original-wordmark.svg" />
-  <img align="center" alt="BABEL" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/babel-original.svg" />
   <img align="center" alt="SQLITE" height="40" width="50" src="https://github.com/miqueiassggarcia/miqueiassggarcia/blob/main/Icons/sqlite-original-wordmark.svg" />
   <br><br>
 </div>
