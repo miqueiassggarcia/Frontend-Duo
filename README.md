@@ -29,5 +29,3 @@ Já com o node instalado, entre no diretório do projeto pelo terminal dê os se
 
 Projeto inicializado com create-react-app [Create React App](https://github.com/facebook/create-react-app).
 <br><br>
-
-### Projeto criado na semana omnistack 11.
